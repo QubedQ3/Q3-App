@@ -8,7 +8,6 @@ Well we plan on two (2) different versions. One to be essentially a streamers to
 ### What Languages and libraries do you plan on using?
 We are planning on using Java and the following libraries (**This list is expected to be updated as development goes on**):
 * [Java-CEF] (https://bitbucket.org/chromiumembedded/java-cef/)
-* 
 
 ### Will you bundle everything into one zip under the releases tab?
 Depending on licensing, We shall see.
