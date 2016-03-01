@@ -6,7 +6,7 @@ Home to Q3's source code for our Desktop Application(s)!
 Well we plan on two (2) different versions. One to be essentially a streamers toolkit and one to be essentially a stream viewer.
 
 ### What languages and libraries do you plan on using?
-We are still discussing what are possibilities are at the moment. We will update this when we have decided on what languages and libraries we will use.
+We are still discussing what our possibilities are at the moment. We will update this when we have decided on what languages and libraries we will use.
 
 ### Will you bundle everything into one zip under the releases tab?
 Depending on licensing, We shall see.
